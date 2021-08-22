@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/> Aarjeyan Shrestha <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/> </h1>
-<h3 align="center">I'm a 3rd year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
+<h3 align="center">I'm a 3rd year Computer Science Student in Dr. Ambedkar Institute of Technology, Bangalore </h3>
 
 
 ## Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **official.aarjeyan@gmail.com**
 
-- Hobbies : Learning new things,Playing Games 🎮,Singing 🎼,Painting 
+- Hobbies : Learning new things, Playing Games 🎮, Singing 🎼, Painting 
 
 ## Connect with me:
 <p align="left">
