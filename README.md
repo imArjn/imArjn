@@ -3,19 +3,19 @@
 <h3 align="center">I'm a 3rd year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
 
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+## Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-- 🌱 I’m currently learning Unity,Blender and aim to be Game Developer
+- 🌱 I’m currently learning Unity and aim to be Game Developer
   
 - 💬 Ask me about C#
   
-- 👯 I’m looking to collaborate on OpenSource Projects
+- 👯 I’m looking to collaborate on OpenSource Projects,Unity Projects
   
 - 😄 Pronouns: He/His
 
 - 📫 How to reach me : **official.aarjeyan@gmail.com**
 
-- Hobbies : Playing Games 🎮,Snging 🎼,Painting 
+- Hobbies : Learning new things,Playing Games 🎮,Singing 🎼,Painting 
 
 ## Connect with me:
 <p align="left">
