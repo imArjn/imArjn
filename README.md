@@ -5,7 +5,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-- 🌱 I’m currently learning Unity and aim to be Game Developer
+- 🌱 I’m currently learning Unity,Blender and aim to be Game Developer
   
 - 💬 Ask me about C#
   
@@ -14,6 +14,8 @@
 - 😄 Pronouns: He/His
 
 - 📫 How to reach me : **official.aarjeyan@gmail.com**
+
+- Hobbies : Playing Games 🎮,Snging 🎼,Painting 
 
 ## Connect with me:
 <p align="left">
@@ -27,6 +29,7 @@
 
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/></a>
+    <a href="https://www.blender.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
