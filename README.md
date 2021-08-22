@@ -28,7 +28,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/unity.png"/></a>
+    <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/nolan/64/unity.png"/></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/></a>
     <a href="https://www.blender.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
