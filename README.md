@@ -1,5 +1,5 @@
 
-<h1 align="center">Aarjeyan Shrestha <a href="https://icons8.com/icon/T4rG9LrLu-OM/victory-hand">Victory Hand icon by Icons8</a> </h1>
+<h1 align="center">Aarjeyan Shrestha <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/> </h1>
 <h3 align="center">I'm a 3rd year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
 
 
