@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/> Aarjeyan Shrestha <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/>
+  <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/> Aarjeyan Shrestha (Arjn) <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/>
 </h1>
 <h3 align="center">
-  I'm a 1st year AIML student at Lambton College in Toronto (Cestar College)
+  Studying AIML at Lambton College in Toronto (Cestar College LCIT)
 </h3>
 
-## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello/Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently diving into Machine Learning, Deep Learning, and Artificial Intelligence.
-- 💬 Ask me about Python, TensorFlow, PyTorch, and data science techniques.
-- 👯 I’m looking to collaborate on AI/ML research and open source projects.
+- 💬 Ask me about Python, TensorFlow, PyTorch, and Data Science techniques.
+- 👯 I’m looking to collaborate on AI/ML research and open-source projects.
 - 😄 Pronouns: He/His
 - 📫 How to reach me: **official.aarjeyan@gmail.com**
 - **Hobbies:** Exploring AI innovations, reading research papers, coding, and playing games 🎮
@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" height="48"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" alt="scikit-learn" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="48"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="48"/>
