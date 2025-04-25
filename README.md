@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/> Aarjeyan Shrestha (Arjn) <img src="https://img.icons8.com/emoji/48/000000/victory-hand-emoji.png"/>
 </h1>
 <h3 align="center">
-  Studying AIML at Lambton College in Toronto (Cestar College LCIT)
+  Not aiming to know everything — just aiming to get better every day.
 </h3>
 
 ## Hello/Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
