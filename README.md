@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## 🚀 Languages and Tools:
+## 🚀 Skills and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="48"/>
@@ -51,3 +51,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="48"/>
   </a>
 </p>
+
+#### “Models get better with training — and so do we.” 🤖
